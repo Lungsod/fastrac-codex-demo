@@ -11,18 +11,18 @@ $font-pop: $font-base; // If you just want to use one font throughout, do this.
 
 // These variables are for buttons and text.
 // "color-secondary" should be a lighter color than "color-primary" but still readable contrasted with white.
-$color-primary: #4c4a89;
+$color-primary: #4e4e56;
 $color-secondary: #d3d6fd;
 
 // These variables set background panel colors
-$dark: #4c4a89;
-$dark-with-overlay: #4c4a89;
-$dark-lighter: lighten(#4c4a89, 10%);
+$dark: #212124;
+$dark-with-overlay: #212126;
+$dark-lighter: lighten(#212126, 10%);
 
 // You might find it helpful to define these and use them.
-$color-primary-light: lighten(#4c4a89, 10%);
-$color-primary-dark: darken(#4c4a89, 10%);
-$dark-darker: darken(#4c4a89, 10%);
+$color-primary-light: lighten(#212126, 10%);
+$color-primary-dark: darken(#212126, 10%);
+$dark-darker: darken(#212124, 10%);
 
 // D3D6FD
 // DEDCF6
