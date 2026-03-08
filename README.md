@@ -1,3 +1,5 @@
+# Archived, was used for demo purposes only, exploring other digital twin solutions, alternatives and other setup.
+
 # Terria Map
 
 [![Build Status](https://github.com/TerriaJS/TerriaMap/actions/workflows/ci.yml/badge.svg?branch=main&event=push)](https://github.com/TerriaJS/TerriaMap/actions/workflows/ci.yml) [![Docs](https://img.shields.io/badge/docs-online-blue.svg)](https://docs.terria.io/)
